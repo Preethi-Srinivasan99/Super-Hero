@@ -3,7 +3,7 @@ Get all SuperHeroes and Villains data from all universes.
 
 ## Example Screenshots
 <p align="center">
-<img src="/SuperHero_SS7.png" alt="Sample Screenshot" width="50%" height="50%">
+<img src="/SuperHero_SS7.png" alt="Sample Screenshot" width="80%" height="80%">
 </p>
 
 | | | |
