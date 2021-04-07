@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff23729a</color>
+    <color name="colorPrimaryDark">#ff23729a</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+    <!-- Toolbar -->
+
+    <!-- Power Stats colours -->
+    <color name="power">#F57F17</color>
+    <color name="intelligence">#F87D7D</color>
+    <color name="combat">#E43B48</color>
+    <color name="speed">#13B588</color>
+    <color name="strength">#AF639F</color>
+    <color name="durability">#5E1E1E</color>
+    <color name="durability_unfinished">#C1B7BF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

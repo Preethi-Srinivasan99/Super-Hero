@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="super_hero">
+        <item>Abe Sapien</item>
+        <item>Abin Sur</item>
+        <item>Abomination</item>
+        <item>Abraxas</item>
+        <item>Absorbing Man</item>
+        <item>Adam Monroe</item>
+        <item>Adam Strange</item>
+        <item>Agent 13</item>
+        <item>Agent Bob</item>
+        <item>Agent Zero</item>
+        <item>Air-Walker</item>
+        <item>Ajax</item>
+        <item>Alan Scott</item>
+        <item>Alex Mercer</item>
+        <item>Alex Woolsly</item>
+        <item>Alfred Pennyworth</item>
+        <item>Alien</item>
+        <item>Allan Quatermain</item>
+        <item>Amazo</item>
+        <item>Ammo</item>
+        <item>Ando Masahashi</item>
+        <item>Angel</item>
+        <item>Angel</item>
+        <item>Angel Dust</item>
+        <item>Angel Salvadore</item>
+        <item>Angela</item>
+        <item>Animal Man</item>
+        <item>Annihilus</item>
+        <item>Ant-Man</item>
+        <item>Ant-Man II</item>
+        <item>Anti-Monitor</item>
+        <item>Anti-Spawn</item>
+        <item>Anti-Venom</item>
+        <item>Apocalypse</item>
+        <item>Aquababy</item>
+        <item>Aqualad</item>
+        <item>Aquaman</item>
+        <item>Arachne</item>
+        <item>Archangel</item>
+        <item>Arclight</item>
+        <item>Ardina</item>
+        <item>Ares</item>
+        <item>Ariel</item>
+        <item>Armor</item>
+        <item>Arsenal</item>
+        <item>Astro Boy</item>
+        <item>Atlas</item>
+        <item>Atlas</item>
+        <item>Atom</item>
+        <item>Atom</item>
+        <item>Atom Girl</item>
+        <item>Atom II</item>
+        <item>Atom III</item>
+        <item>Atom IV</item>
+        <item>Aurora</item>
+        <item>Azazel</item>
+        <item>Azrael</item>
+        <item>Aztar</item>
+        <item>Bane</item>
+        <item>Banshee</item>
+        <item>Bantam</item>
+        <item>Batgirl</item>
+        <item>Batgirl</item>
+        <item>Batgirl III</item>
+        <item>Batgirl IV</item>
+        <item>Batgirl V</item>
+        <item>Batgirl VI</item>
+        <item>Batman</item>
+        <item>Batman</item>
+        <item>Batman II</item>
+        <item>Battlestar</item>
+        <item>Batwoman V</item>
+        <item>Beak</item>
+        <item>Beast</item>
+        <item>Beast Boy</item>
+        <item>Beetle</item>
+        <item>Ben 10</item>
+        <item>Beta Ray Bill</item>
+        <item>Beyonder</item>
+        <item>Big Barda</item>
+        <item>Big Daddy</item>
+        <item>Big Man</item>
+        <item>Bill Harken</item>
+        <item>Billy Kincaid</item>
+        <item>Binary</item>
+        <item>Bionic Woman</item>
+        <item>Bird-Brain</item>
+        <item>Bird-Man</item>
+        <item>Bird-Man II</item>
+        <item>Birdman</item>
+        <item>Bishop</item>
+        <item>Bizarro</item>
+        <item>Black Abbott</item>
+        <item>Black Adam</item>
+        <item>Black Bolt</item>
+        <item>Black Canary</item>
+        <item>Black Canary</item>
+        <item>Black Cat</item>
+        <item>Black Flash</item>
+        <item>Black Goliath</item>
+        <item>Black Knight III</item>
+        <item>Black Lightning</item>
+        <item>Black Mamba</item>
+        <item>Black Manta</item>
+        <item>Black Panther</item>
+        <item>Black Widow</item>
+        <item>Black Widow II</item>
+        <item>Blackout</item>
+        <item>Blackwing</item>
+        <item>Blackwulf</item>
+        <item>Blade</item>
+        <item>Blaquesmith</item>
+        <item>Bling!</item>
+        <item>Blink</item>
+        <item>Blizzard</item>
+        <item>Blizzard</item>
+        <item>Blizzard II</item>
+        <item>Blob</item>
+        <item>Bloodaxe</item>
+        <item>Bloodhawk</item>
+        <item>Bloodwraith</item>
+        <item>Blue Beetle</item>
+        <item>Blue Beetle</item>
+        <item>Blue Beetle II</item>
+        <item>Blue Beetle III</item>
+        <item>Boba Fett</item>
+        <item>Bolt</item>
+        <item>Bomb Queen</item>
+        <item>Boom-Boom</item>
+        <item>Boomer</item>
+        <item>Booster Gold</item>
+        <item>Box</item>
+        <item>Box III</item>
+        <item>Box IV</item>
+        <item>Brainiac</item>
+        <item>Brainiac 5</item>
+        <item>Brother Voodoo</item>
+        <item>Brundlefly</item>
+        <item>Buffy</item>
+        <item>Bullseye</item>
+        <item>Bumblebee</item>
+        <item>Bumbleboy</item>
+        <item>Bushido</item>
+        <item>Cable</item>
+        <item>Callisto</item>
+        <item>Cameron Hicks</item>
+        <item>Cannonball</item>
+        <item>Captain America</item>
+        <item>Captain Atom</item>
+        <item>Captain Britain</item>
+        <item>Captain Cold</item>
+        <item>Captain Epic</item>
+        <item>Captain Hindsight</item>
+        <item>Captain Mar-vell</item>
+        <item>Captain Marvel</item>
+        <item>Captain Marvel</item>
+        <item>Captain Marvel II</item>
+        <item>Captain Midnight</item>
+        <item>Captain Planet</item>
+        <item>Captain Universe</item>
+        <item>Carnage</item>
+        <item>Cat</item>
+        <item>Cat II</item>
+        <item>Catwoman</item>
+        <item>Cecilia Reyes</item>
+        <item>Century</item>
+        <item>Cerebra</item>
+        <item>Chamber</item>
+        <item>Chameleon</item>
+        <item>Changeling</item>
+        <item>Cheetah</item>
+        <item>Cheetah II</item>
+        <item>Cheetah III</item>
+        <item>Chromos</item>
+        <item>Chuck Norris</item>
+        <item>Citizen Steel</item>
+        <item>Claire Bennet</item>
+        <item>Clea</item>
+        <item>Cloak</item>
+        <item>Clock King</item>
+        <item>Cogliostro</item>
+        <item>Colin Wagner</item>
+        <item>Colossal Boy</item>
+        <item>Colossus</item>
+        <item>Copycat</item>
+        <item>Corsair</item>
+        <item>Cottonmouth</item>
+        <item>Crimson Crusader</item>
+        <item>Crimson Dynamo</item>
+        <item>Crystal</item>
+        <item>Curse</item>
+        <item>Cy-Gor</item>
+        <item>Cyborg</item>
+        <item>Cyborg Superman</item>
+        <item>Cyclops</item>
+        <item>Cypher</item>
+        <item>Dagger</item>
+        <item>Danny Cooper</item>
+        <item>Daphne Powell</item>
+        <item>Daredevil</item>
+        <item>Darkhawk</item>
+        <item>Darkman</item>
+        <item>Darkseid</item>
+        <item>Darkside</item>
+        <item>Darkstar</item>
+        <item>Darth Maul</item>
+        <item>Darth Vader</item>
+        <item>Dash</item>
+        <item>Data</item>
+        <item>Dazzler</item>
+        <item>Deadman</item>
+        <item>Deadpool</item>
+        <item>Deadshot</item>
+        <item>Deathlok</item>
+        <item>Deathstroke</item>
+        <item>Demogoblin</item>
+        <item>Destroyer</item>
+        <item>Diamondback</item>
+        <item>DL Hawkins</item>
+        <item>Doc Samson</item>
+        <item>Doctor Doom</item>
+        <item>Doctor Doom II</item>
+        <item>Doctor Fate</item>
+        <item>Doctor Octopus</item>
+        <item>Doctor Strange</item>
+        <item>Domino</item>
+        <item>Donatello</item>
+        <item>Donna Troy</item>
+        <item>Doomsday</item>
+        <item>Doppelganger</item>
+        <item>Dormammu</item>
+        <item>Dr Manhattan</item>
+        <item>Drax the Destroyer</item>
+        <item>Ego</item>
+        <item>Elastigirl</item>
+        <item>Electro</item>
+        <item>Elektra</item>
+        <item>Elle Bishop</item>
+        <item>Elongated Man</item>
+        <item>Emma Frost</item>
+        <item>Enchantress</item>
+        <item>Energy</item>
+        <item>ERG-1</item>
+        <item>Ethan Hunt</item>
+        <item>Etrigan</item>
+        <item>Evil Deadpool</item>
+        <item>Evilhawk</item>
+        <item>Exodus</item>
+        <item>Fabian Cortez</item>
+        <item>Falcon</item>
+        <item>Fallen One II</item>
+        <item>Faora</item>
+        <item>Feral</item>
+        <item>Fighting Spirit</item>
+        <item>Fin Fang Foom</item>
+        <item>Firebird</item>
+        <item>Firelord</item>
+        <item>Firestar</item>
+        <item>Firestorm</item>
+        <item>Firestorm</item>
+        <item>Fixer</item>
+        <item>Flash</item>
+        <item>Flash Gordon</item>
+        <item>Flash II</item>
+        <item>Flash III</item>
+        <item>Flash IV</item>
+        <item>Forge</item>
+        <item>Franklin Richards</item>
+        <item>Franklin Storm</item>
+        <item>Frenzy</item>
+        <item>Frigga</item>
+        <item>Galactus</item>
+        <item>Gambit</item>
+        <item>Gamora</item>
+        <item>Garbage Man</item>
+        <item>Gary Bell</item>
+        <item>General Zod</item>
+        <item>Genesis</item>
+        <item>Ghost Rider</item>
+        <item>Ghost Rider II</item>
+        <item>Giant-Man</item>
+        <item>Giant-Man II</item>
+        <item>Giganta</item>
+        <item>Gladiator</item>
+        <item>Goblin Queen</item>
+        <item>Godzilla</item>
+        <item>Gog</item>
+        <item>Goku</item>
+        <item>Goliath</item>
+        <item>Goliath</item>
+        <item>Goliath</item>
+        <item>Goliath IV</item>
+        <item>Gorilla Grodd</item>
+        <item>Granny Goodness</item>
+        <item>Gravity</item>
+        <item>Greedo</item>
+        <item>Green Arrow</item>
+        <item>Green Goblin</item>
+        <item>Green Goblin II</item>
+        <item>Green Goblin III</item>
+        <item>Green Goblin IV</item>
+        <item>Groot</item>
+        <item>Guardian</item>
+        <item>Guy Gardner</item>
+        <item>Hal Jordan</item>
+        <item>Han Solo</item>
+        <item>Hancock</item>
+        <item>Harley Quinn</item>
+        <item>Harry Potter</item>
+        <item>Havok</item>
+        <item>Hawk</item>
+        <item>Hawkeye</item>
+        <item>Hawkeye II</item>
+        <item>Hawkgirl</item>
+        <item>Hawkman</item>
+        <item>Hawkwoman</item>
+        <item>Hawkwoman II</item>
+        <item>Hawkwoman III</item>
+        <item>Heat Wave</item>
+        <item>Hela</item>
+        <item>Hellboy</item>
+        <item>Hellcat</item>
+        <item>Hellstorm</item>
+        <item>Hercules</item>
+        <item>Hiro Nakamura</item>
+        <item>Hit-Girl</item>
+        <item>Hobgoblin</item>
+        <item>Hollow</item>
+        <item>Hope Summers</item>
+        <item>Howard the Duck</item>
+        <item>Hulk</item>
+        <item>Human Torch</item>
+        <item>Huntress</item>
+        <item>Husk</item>
+        <item>Hybrid</item>
+        <item>Hydro-Man</item>
+        <item>Hyperion</item>
+        <item>Iceman</item>
+        <item>Impulse</item>
+        <item>Indiana Jones</item>
+        <item>Indigo</item>
+        <item>Ink</item>
+        <item>Invisible Woman</item>
+        <item>Iron Fist</item>
+        <item>Iron Man</item>
+        <item>Iron Monger</item>
+        <item>Isis</item>
+        <item>Jack Bauer</item>
+        <item>Jack of Hearts</item>
+        <item>Jack-Jack</item>
+        <item>James Bond</item>
+        <item>James T. Kirk</item>
+        <item>Jar Jar Binks</item>
+        <item>Jason Bourne</item>
+        <item>Jean Grey</item>
+        <item>Jean-Luc Picard</item>
+        <item>Jennifer Kale</item>
+        <item>Jesse Quick</item>
+        <item>Jessica Cruz</item>
+        <item>Jessica Jones</item>
+        <item>Jessica Sanders</item>
+        <item>Jigsaw</item>
+        <item>Jim Powell</item>
+        <item>JJ Powell</item>
+        <item>Johann Krauss</item>
+        <item>John Constantine</item>
+        <item>John Stewart</item>
+        <item>John Wraith</item>
+        <item>Joker</item>
+        <item>Jolt</item>
+        <item>Jubilee</item>
+        <item>Judge Dredd</item>
+        <item>Juggernaut</item>
+        <item>Junkpile</item>
+        <item>Justice</item>
+        <item>Jyn Erso</item>
+        <item>K-2SO</item>
+        <item>Kang</item>
+        <item>Kathryn Janeway</item>
+        <item>Katniss Everdeen</item>
+        <item>Kevin 11</item>
+        <item>Kick-Ass</item>
+        <item>Kid Flash</item>
+        <item>Kid Flash II</item>
+        <item>Killer Croc</item>
+        <item>Killer Frost</item>
+        <item>Kilowog</item>
+        <item>King Kong</item>
+        <item>King Shark</item>
+        <item>Kingpin</item>
+        <item>Klaw</item>
+        <item>Kool-Aid Man</item>
+        <item>Kraven II</item>
+        <item>Kraven the Hunter</item>
+        <item>Krypto</item>
+        <item>Kyle Rayner</item>
+        <item>Kylo Ren</item>
+        <item>Lady Bullseye</item>
+        <item>Lady Deathstrike</item>
+        <item>Leader</item>
+        <item>Leech</item>
+        <item>Legion</item>
+        <item>Leonardo</item>
+        <item>Lex Luthor</item>
+        <item>Light Lass</item>
+        <item>Lightning Lad</item>
+        <item>Lightning Lord</item>
+        <item>Living Brain</item>
+        <item>Living Tribunal</item>
+        <item>Liz Sherman</item>
+        <item>Lizard</item>
+        <item>Lobo</item>
+        <item>Loki</item>
+        <item>Longshot</item>
+        <item>Luke Cage</item>
+        <item>Luke Campbell</item>
+        <item>Luke Skywalker</item>
+        <item>Luna</item>
+        <item>Lyja</item>
+        <item>Mach-IV</item>
+        <item>Machine Man</item>
+        <item>Magneto</item>
+        <item>Magog</item>
+        <item>Magus</item>
+        <item>Man of Miracles</item>
+        <item>Man-Bat</item>
+        <item>Man-Thing</item>
+        <item>Man-Wolf</item>
+        <item>Mandarin</item>
+        <item>Mantis</item>
+        <item>Martian Manhunter</item>
+        <item>Marvel Girl</item>
+        <item>Master Brood</item>
+        <item>Master Chief</item>
+        <item>Match</item>
+        <item>Matt Parkman</item>
+        <item>Maverick</item>
+        <item>Maxima</item>
+        <item>Maya Herrera</item>
+        <item>Medusa</item>
+        <item>Meltdown</item>
+        <item>Mephisto</item>
+        <item>Mera</item>
+        <item>Metallo</item>
+        <item>Metamorpho</item>
+        <item>Meteorite</item>
+        <item>Metron</item>
+        <item>Micah Sanders</item>
+        <item>Michelangelo</item>
+        <item>Micro Lad</item>
+        <item>Mimic</item>
+        <item>Minna Murray</item>
+        <item>Misfit</item>
+        <item>Miss Martian</item>
+        <item>Mister Fantastic</item>
+        <item>Mister Freeze</item>
+        <item>Mister Knife</item>
+        <item>Mister Mxyzptlk</item>
+        <item>Mister Sinister</item>
+        <item>Mister Zsasz</item>
+        <item>Mockingbird</item>
+        <item>MODOK</item>
+        <item>Mogo</item>
+        <item>Mohinder Suresh</item>
+        <item>Moloch</item>
+        <item>Molten Man</item>
+        <item>Monarch</item>
+        <item>Monica Dawson</item>
+        <item>Moon Knight</item>
+        <item>Moonstone</item>
+        <item>Morlun</item>
+        <item>Morph</item>
+        <item>Moses Magnum</item>
+        <item>Mr Immortal</item>
+        <item>Mr Incredible</item>
+        <item>Ms Marvel II</item>
+        <item>Multiple Man</item>
+        <item>Mysterio</item>
+        <item>Mystique</item>
+        <item>Namor</item>
+        <item>Namor</item>
+        <item>Namora</item>
+        <item>Namorita</item>
+        <item>Naruto Uzumaki</item>
+        <item>Nathan Petrelli</item>
+        <item>Nebula</item>
+        <item>Negasonic Teenage Warhead</item>
+        <item>Nick Fury</item>
+        <item>Nightcrawler</item>
+        <item>Nightwing</item>
+        <item>Niki Sanders</item>
+        <item>Nina Theroux</item>
+        <item>Nite Owl II</item>
+        <item>Northstar</item>
+        <item>Nova</item>
+        <item>Nova</item>
+        <item>Odin</item>
+        <item>Offspring</item>
+        <item>Omega Red</item>
+        <item>Omniscient</item>
+        <item>One Punch Man</item>
+        <item>One-Above-All</item>
+        <item>Onslaught</item>
+        <item>Oracle</item>
+        <item>Osiris</item>
+        <item>Overtkill</item>
+        <item>Ozymandias</item>
+        <item>Parademon</item>
+        <item>Paul Blart</item>
+        <item>Penance</item>
+        <item>Penance I</item>
+        <item>Penance II</item>
+        <item>Penguin</item>
+        <item>Phantom</item>
+        <item>Phantom Girl</item>
+        <item>Phoenix</item>
+        <item>Plantman</item>
+        <item>Plastic Lad</item>
+        <item>Plastic Man</item>
+        <item>Plastique</item>
+        <item>Poison Ivy</item>
+        <item>Polaris</item>
+        <item>Power Girl</item>
+        <item>Power Man</item>
+        <item>Predator</item>
+        <item>Professor X</item>
+        <item>Professor Zoom</item>
+        <item>Psylocke</item>
+        <item>Punisher</item>
+        <item>Purple Man</item>
+        <item>Pyro</item>
+        <item>Q</item>
+        <item>Quantum</item>
+        <item>Question</item>
+        <item>Quicksilver</item>
+        <item>Quill</item>
+        <item>Ras Al Ghul</item>
+        <item>Rachel Pirzad</item>
+        <item>Rambo</item>
+        <item>Raphael</item>
+        <item>Raven</item>
+        <item>Ray</item>
+        <item>Razor-Fist II</item>
+        <item>Red Arrow</item>
+        <item>Red Hood</item>
+        <item>Red Hulk</item>
+        <item>Red Mist</item>
+        <item>Red Robin</item>
+        <item>Red Skull</item>
+        <item>Red Tornado</item>
+        <item>Redeemer II</item>
+        <item>Redeemer III</item>
+        <item>Renata Soliz</item>
+        <item>Rey</item>
+        <item>Rhino</item>
+        <item>Rick Flag</item>
+        <item>Riddler</item>
+        <item>Rip Hunter</item>
+        <item>Ripcord</item>
+        <item>Robin</item>
+        <item>Robin II</item>
+        <item>Robin III</item>
+        <item>Robin V</item>
+        <item>Robin VI</item>
+        <item>Rocket Raccoon</item>
+        <item>Rogue</item>
+        <item>Ronin</item>
+        <item>Rorschach</item>
+        <item>Sabretooth</item>
+        <item>Sage</item>
+        <item>Sandman</item>
+        <item>Sasquatch</item>
+        <item>Sauron</item>
+        <item>Savage Dragon</item>
+        <item>Scarecrow</item>
+        <item>Scarlet Spider</item>
+        <item>Scarlet Spider II</item>
+        <item>Scarlet Witch</item>
+        <item>Scorpia</item>
+        <item>Scorpion</item>
+        <item>Sebastian Shaw</item>
+        <item>Sentry</item>
+        <item>Shadow King</item>
+        <item>Shadow Lass</item>
+        <item>Shadowcat</item>
+        <item>Shang-Chi</item>
+        <item>Shatterstar</item>
+        <item>She-Hulk</item>
+        <item>She-Thing</item>
+        <item>Shocker</item>
+        <item>Shriek</item>
+        <item>Shrinking Violet</item>
+        <item>Sif</item>
+        <item>Silk</item>
+        <item>Silk Spectre</item>
+        <item>Silk Spectre II</item>
+        <item>Silver Surfer</item>
+        <item>Silverclaw</item>
+        <item>Simon Baz</item>
+        <item>Sinestro</item>
+        <item>Siren</item>
+        <item>Siren II</item>
+        <item>Siryn</item>
+        <item>Skaar</item>
+        <item>Snake-Eyes</item>
+        <item>Snowbird</item>
+        <item>Sobek</item>
+        <item>Solomon Grundy</item>
+        <item>Songbird</item>
+        <item>Space Ghost</item>
+        <item>Spawn</item>
+        <item>Spectre</item>
+        <item>Speedball</item>
+        <item>Speedy</item>
+        <item>Speedy</item>
+        <item>Spider-Carnage</item>
+        <item>Spider-Girl</item>
+        <item>Spider-Gwen</item>
+        <item>Spider-Man</item>
+        <item>Spider-Man</item>
+        <item>Spider-Man</item>
+        <item>Spider-Woman</item>
+        <item>Spider-Woman II</item>
+        <item>Spider-Woman III</item>
+        <item>Spider-Woman IV</item>
+        <item>Spock</item>
+        <item>Spyke</item>
+        <item>Stacy X</item>
+        <item>Star-Lord</item>
+        <item>Stardust</item>
+        <item>Starfire</item>
+        <item>Stargirl</item>
+        <item>Static</item>
+        <item>Steel</item>
+        <item>Stephanie Powell</item>
+        <item>Steppenwolf</item>
+        <item>Storm</item>
+        <item>Stormtrooper</item>
+        <item>Sunspot</item>
+        <item>Superboy</item>
+        <item>Superboy-Prime</item>
+        <item>Supergirl</item>
+        <item>Superman</item>
+        <item>Swamp Thing</item>
+        <item>Swarm</item>
+        <item>Sylar</item>
+        <item>Sylar</item>
+        <item>Synch</item>
+        <item>T-1000</item>
+        <item>T-800</item>
+        <item>T-850</item>
+        <item>T-X</item>
+        <item>Taskmaster</item>
+        <item>Tempest</item>
+        <item>Thanos</item>
+        <item>The Cape</item>
+        <item>The Comedian</item>
+        <item>Thing</item>
+        <item>Thor</item>
+        <item>Thor Girl</item>
+        <item>Thunderbird</item>
+        <item>Thunderbird II</item>
+        <item>Thunderbird III</item>
+        <item>Thunderstrike</item>
+        <item>Thundra</item>
+        <item>Tiger Shark</item>
+        <item>Tigra</item>
+        <item>Tinkerer</item>
+        <item>Titan</item>
+        <item>Toad</item>
+        <item>Toxin</item>
+        <item>Toxin</item>
+        <item>Tracy Strauss</item>
+        <item>Trickster</item>
+        <item>Trigon</item>
+        <item>Triplicate Girl</item>
+        <item>Triton</item>
+        <item>Two-Face</item>
+        <item>Ultragirl</item>
+        <item>Ultron</item>
+        <item>Utgard-Loki</item>
+        <item>Vagabond</item>
+        <item>Valerie Hart</item>
+        <item>Valkyrie</item>
+        <item>Vanisher</item>
+        <item>Vegeta</item>
+        <item>Venom</item>
+        <item>Venom II</item>
+        <item>Venom III</item>
+        <item>Venompool</item>
+        <item>Vertigo II</item>
+        <item>Vibe</item>
+        <item>Vindicator</item>
+        <item>Vindicator</item>
+        <item>Violator</item>
+        <item>Violet Parr</item>
+        <item>Vision</item>
+        <item>Vision II</item>
+        <item>Vixen</item>
+        <item>Vulcan</item>
+        <item>Vulture</item>
+        <item>Walrus</item>
+        <item>War Machine</item>
+        <item>Warbird</item>
+        <item>Warlock</item>
+        <item>Warp</item>
+        <item>Warpath</item>
+        <item>Wasp</item>
+        <item>Watcher</item>
+        <item>Weapon XI</item>
+        <item>White Canary</item>
+        <item>White Queen</item>
+        <item>Wildfire</item>
+        <item>Winter Soldier</item>
+        <item>Wiz Kid</item>
+        <item>Wolfsbane</item>
+        <item>Wolverine</item>
+        <item>Wonder Girl</item>
+        <item>Wonder Man</item>
+        <item>Wonder Woman</item>
+        <item>Wondra</item>
+        <item>Wyatt Wingfoot</item>
+        <item>X-23</item>
+        <item>X-Man</item>
+        <item>Yellow Claw</item>
+        <item>Yellowjacket</item>
+        <item>Yellowjacket II</item>
+        <item>Ymir</item>
+        <item>Yoda</item>
+        <item>Zatanna</item>
+        <item>Zoom</item>
+    </string-array>
+</resources>
