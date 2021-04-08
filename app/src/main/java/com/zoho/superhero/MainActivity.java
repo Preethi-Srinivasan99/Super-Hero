@@ -39,7 +39,6 @@ import static com.zoho.superhero.util.ContURL.URL_SUPERHERO_ID;
 
 public class MainActivity extends AppCompatActivity {
 
-    //Recycler View Data
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
