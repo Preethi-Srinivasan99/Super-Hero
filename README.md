@@ -22,8 +22,6 @@ This project uses the latest Gradle version. Gradle will update if a new version
 
 To run this app, you will need to download [Android Studio](https://developer.android.com/studio). 
 
-To run the project open the folder `code`
-
 You will need to create a new emulator otherwise can use your own android phone [Use Your Android Phone](https://javatutorial.net/connect-android-device-android-studio). 
 
 From there the gradle will build the project and after completed, hit the `run` green button on top of the screen. 
@@ -41,4 +39,5 @@ Used libraries :
 # Development Environment
 * The app is written in Java and uses the Gradle build system.
 * Min API level == 21  
-* Android Studio >= 6.5
+* Version 1.0
+* Android Studio >= 4.3.1
