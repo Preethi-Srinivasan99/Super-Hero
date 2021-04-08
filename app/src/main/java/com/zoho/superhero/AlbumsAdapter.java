@@ -18,7 +18,7 @@ import com.zoho.superhero.pojo.SuperHeroPojo;
 import java.util.ArrayList;
 
 /**
- * Created by Ravi Tamada on 18/05/16.
+ * Created by Preethi on 07/04/2021.
  */
 class AlbumsAdapter extends RecyclerView.Adapter<com.zoho.superhero.AlbumsAdapter.MyViewHolder> {
 
