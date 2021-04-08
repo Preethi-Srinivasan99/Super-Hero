@@ -173,6 +173,7 @@ public class HeroDetailsActivity extends AppCompatActivity {
             Toast.makeText(com.zoho.superhero.HeroDetailsActivity.this, "Server unable to reach..!", Toast.LENGTH_SHORT).show();
             pDialog.hide();
         });
+        System.out.println("jsonObjReq = " + jsonObjReq.toString());
         // Adding request to request queue
         AppController.getInstance().addToRequestQueue(jsonObjReq, tag_json_obj);
     }
