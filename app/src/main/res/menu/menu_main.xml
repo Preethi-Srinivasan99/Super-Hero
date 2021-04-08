@@ -1,3 +1,4 @@
+<!-- Main Menu -->
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -7,6 +8,7 @@
         android:orderInCategory="100"
         android:icon="@drawable/ic_baseline_search_24"
         app:showAsAction="always" />
+    <!-- App info -->
     <item android:id="@+id/about_action"
         android:title="@string/app_info"
         android:orderInCategory="100"

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Super Hero names -->
     <string-array name="super_hero">
         <item>Abe Sapien</item>
         <item>Abin Sur</item>
