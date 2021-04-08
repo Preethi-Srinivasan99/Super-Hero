@@ -1,6 +1,5 @@
 package com.zoho.superhero;
 
-
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.res.Resources;
@@ -34,9 +33,13 @@ import static com.zoho.superhero.util.ContURL.SUPER_HERO_JSON_ARRAY_1;
 import static com.zoho.superhero.util.ContURL.SUPER_HERO_JSON_ARRAY_2;
 import static com.zoho.superhero.util.ContURL.URL_SUPERHERO_ID;
 
+/**
+ * Created by Preethi on 07/04/2021.
+ */
+
 public class MainActivity extends AppCompatActivity {
 
-
+    //Recycler View Data
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

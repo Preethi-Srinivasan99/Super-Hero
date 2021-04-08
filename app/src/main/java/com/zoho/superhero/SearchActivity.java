@@ -14,6 +14,10 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * Created by Preethi on 07/04/2021.
+ */
+
 public class SearchActivity extends Activity {
 
     // List view

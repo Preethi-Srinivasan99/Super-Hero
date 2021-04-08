@@ -1,5 +1,7 @@
 package com.zoho.superhero.pojo;
-
+/**
+ * Created by Preethi on 07/04/2021.
+ */
 public class SuperHeroPojo {
     public String getGender_textView() {
         return gender_textView;

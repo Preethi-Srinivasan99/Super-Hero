@@ -20,6 +20,8 @@ import java.util.ArrayList;
 /**
  * Created by Preethi on 07/04/2021.
  */
+
+ //SuperHeroes Album List
 class AlbumsAdapter extends RecyclerView.Adapter<com.zoho.superhero.AlbumsAdapter.MyViewHolder> {
 
     private Context mContext;
@@ -60,6 +62,7 @@ class AlbumsAdapter extends RecyclerView.Adapter<com.zoho.superhero.AlbumsAdapte
 //        holder.count.setText(album.getNumOfSongs() + " songs");
 
         // loading album cover using Glide library
+        // Glide library for image loading
         Glide.with(mContext).load(album.getImageUrl()).error(mContext.getDrawable(R.drawable.ic_superhero)).into(holder.thumbnail);
 
         holder.thumbnail.setOnClickListener(new View.OnClickListener() {

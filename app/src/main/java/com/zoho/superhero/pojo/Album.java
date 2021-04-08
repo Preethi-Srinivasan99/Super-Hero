@@ -1,5 +1,7 @@
 package com.zoho.superhero.pojo;
-
+/**
+ * Created by Preethi on 07/04/2021.
+ */
 
 public class Album {
     private String name;

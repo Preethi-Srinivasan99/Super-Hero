@@ -27,6 +27,11 @@ import org.json.JSONObject;
 
 import static com.zoho.superhero.util.ContURL.URL_SUPERHERO_ID;
 
+/**
+ * Created by Preethi on 07/04/2021.
+ */
+
+//List of Features of Superheroes
 public class HeroDetailsActivity extends AppCompatActivity {
     private TextView superHeroName_textView;
     private TextView gender_textView;

@@ -1,3 +1,4 @@
+
 package com.zoho.superhero;
 
 import android.content.Intent;
@@ -6,6 +7,13 @@ import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+/**
+ * Created by Preethi on 07/04/2021.
+ */
+
+//Splash Activity for Superheroes
+
+//Logo for application
 public class SplashActivity extends AppCompatActivity {
 
     @Override
