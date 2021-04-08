@@ -33,6 +33,7 @@ Used libraries :
 - [SuperHero API](https://superheroapi.com/)
 - [Volley](https://github.com/google/volley) library to make sending HTTP requests really easy 
 - [Gson](https://github.com/google/gson) library for handeling Json objects
+- [Glide](https://guides.codepath.com/android/Displaying-Images-with-the-Glide-Library) library provides animated GIF support and handles image loading/caching
 - [Cardview](https://developer.android.com/guide/topics/ui/layout/cardview) library used to give a rich look to the UI design
 - [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview) library used to display a collection of data
 
