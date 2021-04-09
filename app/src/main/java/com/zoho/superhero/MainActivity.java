@@ -35,6 +35,10 @@ import static com.zoho.superhero.util.ContURL.URL_SUPERHERO_ID;
 
 /**
  * Created by Preethi on 07/04/2021.
+ * Using Recycle view instance Recycle View layout is created
+ * Add item Decoration function is called for setting up the edges
+ * DefaultItem Animator provides smooth animation
+ * In Adapter the extension of Recycle view is given
  */
 
 public class MainActivity extends AppCompatActivity {
@@ -75,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
         // Adding request to request queue
         AppController.getInstance().addToRequestQueue(jsonObjReq, tag_json_obj);
     }
-
+//Arraylist is created using Pojo by Getter and setter Methods
     private ArrayList<SuperHeroPojo> prepareSuperHeroAlbums() {
         try {
 

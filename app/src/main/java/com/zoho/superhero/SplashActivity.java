@@ -9,6 +9,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * Created by Preethi on 07/04/2021.
+ * To change the current Activity to another, setContentView is used
+ * A content view is set by activitysplash.xml
+ * Calling the start intent activity using handle array
  */
 
 public class SplashActivity extends AppCompatActivity {
@@ -19,6 +22,8 @@ public class SplashActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
         startIntentActivity();
     }
+
+//The screen waits for 3 milliseconds and goes to the next activity
 
     private void startIntentActivity() {
         Handler handler = new Handler();

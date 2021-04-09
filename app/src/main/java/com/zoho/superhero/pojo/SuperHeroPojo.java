@@ -1,6 +1,9 @@
 package com.zoho.superhero.pojo;
 /**
  * Created by Preethi on 07/04/2021.
+ * Pojo is Plain old Java object which is used for increasing the readability and reusability of the pgm
+ * Superheroes features such as Gender,Eyecolor,Haircolor,Race etc are generated
+ * Text view is used to display the list of features of SuperHeroes
  */
 public class SuperHeroPojo {
     public String getGender_textView() {
