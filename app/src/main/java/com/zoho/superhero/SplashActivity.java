@@ -1,4 +1,3 @@
-
 package com.zoho.superhero;
 
 import android.content.Intent;
@@ -9,9 +8,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * Created by Preethi on 07/04/2021.
- * To change the current Activity to another, setContentView is used
- * A content view is set by activitysplash.xml
- * Calling the start intent activity using handle array
+ * Splash Screen is the first Screen visible to the user when the appliction is launched
+ * A content view is set by activitysplash.xml using setContentView() Function
+ * Using handle Thread hold Splash activity for 3s
+ * later use Intent instance with MainActivity.class , startActivity by passing Created intent instance into it
  */
 
 public class SplashActivity extends AppCompatActivity {
